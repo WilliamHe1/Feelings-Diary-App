@@ -7,7 +7,7 @@ Our app “Feelings Diary” is an application that helps students with their me
 - relationship difficulties
 - black and white thinking
 
-Our app also provides a place for our users to keep a diary for them to write out their feelings and experiences. In addition, Our “Let us know how you feel” quiz will help decide what activity our user should do based on how the user answers each question on the quiz from a scale of 1 to 5. Once the user finishes taking our test, the app can then direct the user to a relevant app that can be used to complete the activity our app suggests.
+Our app also provides a place for our users to keep a diary for them to write out their feelings and experiences. In addition, Our “Let us know how you feel” quiz will help decide what activity our user should do based on how the user answers each question on the quiz on a scale of 1 to 5. Once the user finishes taking our test, the app can then direct the user to a relevant app that can be used to complete the activity our app suggests.
 
 The app will suggest activities based on these scores (the 4 modules of DBT):
 
