@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.LinearLayoutCompat xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:padding="15dp"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_img"
+    tools:context="com.feelingsdiary.feelingsdiaryscripts.AddEntryActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Adding a New Entry"
+        android:gravity="center"
+        android:layout_margin="15dp"
+        android:textSize="25sp"
+        android:id="@+id/titleAdd"
+        android:background="@drawable/rounded_box"
+        />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/rounded_box">
+
+        <EditText
+            android:id="@+id/userinputtitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:hint="@string/entry_title"
+            android:minHeight="48dp"
+            android:padding="5dp"
+            android:textStyle="italic"
+            />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="type entry here"
+            android:textStyle="italic"
+            android:padding="6dp"
+            android:lines="15"
+            android:gravity="top"
+            android:layout_margin="10dp"
+            android:id="@+id/userinputentry" />
+
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/add_entry"
+        android:background="@drawable/rounded_box"
+        android:backgroundTint="@color/purple_200"
+        android:id="@+id/addentrybtn"/>
+
+
+
+</androidx.appcompat.widget.LinearLayoutCompat>

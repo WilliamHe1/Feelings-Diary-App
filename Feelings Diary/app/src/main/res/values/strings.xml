@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Feelings Diary</string>
+
+    <string-array name="randomQuotes">
+        <item>What consumes your Mind, controls your life. - Mel Robbins</item>
+        <item>Tears are words that need to be written. - Paulo Coelho</item>
+        <item>Action is the antidote to despair. - Joan Baez</item>
+        <item>Difficult roads lead to beautiful destinations. - Zig Ziglar”</item>
+    </string-array>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="ER">We recommend you to work on Emotional Regulation.
+        Try writing out the emotions you are experiencing in the Feelings Diary and reflect
+        on those emotions.
+    </string>
+
+    <string name="DT">We recommend you to work on Distress Tolerance.
+        Try setting yourself 15 to 20 minutes to meditate in order to give
+        yourself a chance to unwind using the timer on your phone.
+    </string>
+
+    <string name="IE">We recommend you to work on Interpersonal Effectiveness.
+        Try setting yourself some time to reach out to one of your contacts.
+        Being social will further improve your communication and listening skills.
+    </string>
+
+    <string name="M">We recommend you to work on Mindfulness.
+        Try setting yourself some time to take a break and watch a thought
+        provoking video on YouTube. We will also direct you to a channel that we think
+        can help further your knowledge on mental health.
+    </string>
+
+    <!-- Strings used for quiz. -->
+    <string name="text_1">1</string>
+    <string name="text_2">2</string>
+    <string name="text_3">3</string>
+    <string name="text_4">4</string>
+    <string name="text_5">5</string>
+
+    <string name="q1">Have you recently harbored any suicidal
+thoughts?</string>
+    <string name="q2">Have you recently thought about self harm,
+physical or other?</string>
+    <string name="q3">Have you recently performed acts of self harm,
+physical or other?</string>
+    <string name="q4">Have you recently attempted suicide?</string>
+    <string name="q5">Have you recently considered suicide or self
+harm as an answer to your problems?</string>
+    <string name="q6">Have you recently been tardy or absent in
+checking in with this therapy program?</string>
+    <string name="q7">Have you recently considered stopping coming
+to therapy?</string>
+    <string name="q8">Have you recently felt a loss in motivation in
+continuing this therapy?</string>
+    <string name="q9">Have you recently had problems in your
+relationships, whether they be familial, platonic, or romantic?</string>
+    <string name="q10">Have you recently been diagnosed with a
+mental illness that could affect your goals?</string>
+    <string name="q11">Have you recently experienced or are
+experiencing problems with your current housing arrangements?</string>
+    <string name="q12">Are you willing to learn new skills in order to
+create better habits and reach your goals?</string>
+    <string name="q13">Are you willing to build new relationships to
+better your mindset?</string>
+    <string name="q14">Are you willing to learn how to manage your
+emotions to deal with life problems?</string>
+
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+
+    <!-- Strings used for Diary Entry Portion. -->
+
+    <string name="entrytitle">entrytitle</string>
+    <string name="entry_title">ENTRY TITLE</string>
+    <string name="diary_entry_title">diary entry title</string>
+    <string name="add_new_diary_entry">Add new Diary Entry</string>
+    <string name="my_diary">My Diary</string>
+    <string name="add_entry">Add Entry</string>
+
+
+</resources>
