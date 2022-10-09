@@ -73,3 +73,8 @@ https://positivepsychology.com/mindfulness-exercises-techniques-activities/
 Psych Campus. (2020, February 10). Dialectical behavior therapy: An essential
 guide for therapists. Psychotherapy Academy. Retrieved April 29, 2022, from
 https://psychotherapyacademy.org/dbt/
+
+
+Video Demonstrating the application:
+
+
