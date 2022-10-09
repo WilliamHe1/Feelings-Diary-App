@@ -78,3 +78,8 @@ https://psychotherapyacademy.org/dbt/
 Video Demonstrating the application:
 https://youtu.be/uItPeKVASzc
 
+Diagram of the application: 
+![StoryBoard (1)](https://user-images.githubusercontent.com/88007715/194774933-84b341ff-fff1-41ed-9c9f-5c71b8b90ec6.png)
+
+
+
