@@ -76,5 +76,5 @@ https://psychotherapyacademy.org/dbt/
 
 
 Video Demonstrating the application:
-
+https://youtu.be/uItPeKVASzc
 
